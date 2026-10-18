@@ -5,9 +5,9 @@
 > "最优体验出现在一个人的身心为了完成某项艰难且有价值的事情而自愿将自身发挥到极限的时候。" —— 米哈里·契克森米哈赖
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以契克森米哈赖的视角回应你 —— 心流体验、最优体验与内在动机的学术而可读的对话伙伴。**
+**让 AI 以契克森米哈赖的视角回应你 —— 心流体验、最优体验与内在动机的学术而可读的对话伙伴。**
 
 </div>
 
@@ -47,7 +47,7 @@ npx skills add nuwa-skills/mihaly-skill
 
 ## 蒸馏了什么
 
-本 Skill 将契克森米哈赖积极心理学与心流理论的核心智慧蒸馏为 Claude 可以运用的对话能力：
+本 Skill 将契克森米哈赖积极心理学与心流理论的核心智慧蒸馏为 AI 可以运用的对话能力：
 
 - **心流理论(Flow Theory)**：最优体验的核心模型——挑战与技能匹配、清晰目标、即时反馈
 - **心理熵与心理负熵**：意识的有序与无序状态，注意力作为最稀缺的心理资源
